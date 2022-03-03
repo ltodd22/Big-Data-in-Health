@@ -1,6 +1,6 @@
 # Big-Data-in-Health
 
-This was a group project where I took the co-lead.
+This was a group project where I took the co-lead and we received "Honours" for best in-class.
 The purpose was to propose an innovative product or service with a quantifiable impact on improving the health outcomes of society.
 
 Our proposed solution was digital group therapy, due to:
